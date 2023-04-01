@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    letter-spacing: .25px;
+}
+
+p {
+    margin-bottom: 0px!important;
+    overflow: hidden;
+
+}
+
+.container {
+    min-width: 773px;
+    
+}
+
+.text-bold{
+    font-weight: 700;
+}
+.text-bold-lite{
+    font-weight: 600;
+}
+.table-border1 {
+    border: 2px solid #000000;
+    border-bottom: 0px;
+    /* margin: 0 20px; */
+}
+
+.table-border2 {
+    border-right: 2px solid #000000;
+}
+
+.bt {
+    border-top: 2px solid #000000
+}
+
+.br {
+    border-right: 2px solid #000000
+}
+
+.bb {
+    border-bottom: 2px solid #000000
+}
+
+.bl {
+    border-left: 2px solid #000000
+}
+.logo-size {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.school-address {
+    flex-grow: 1;
+    text-align: center;
+}
+.row-height{
+    min-height:73px;
+    
+}
+.schoolHeading {
+    font-size: 25px;
+    font-weight: 700;
+}
+.sign-box-height{
+    height:85px;
+    
+}
